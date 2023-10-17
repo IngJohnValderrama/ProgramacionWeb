@@ -15,8 +15,7 @@
 }
 .wel_text{
     font-size: 70px;
-    margin-top: 50px;
-    line-height: 50px;
+    line-height: 70px;
 }
 .para{
     margin-top: 10px;
@@ -92,4 +91,7 @@ body{
     padding-right: 10px;
     font-size: 25px;
     color: #0ef;
+}
+.imagen{
+    width: 50px;
 }
